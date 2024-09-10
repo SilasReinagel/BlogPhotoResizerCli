@@ -116,6 +116,12 @@
 # Windows
 **/Thumbs.db
 
+# Test images directory
+**/testimages/
+
+# Output directory
+**/photos/
+
 # But don't ignore these important directories
 !**/src/
 !**/public/
@@ -126,3 +132,6 @@
 # And don't ignore package.json and package-lock.json in any directory
 !**/package.json
 !**/package-lock.json
+
+# Node.js dependencies
+node_modules/

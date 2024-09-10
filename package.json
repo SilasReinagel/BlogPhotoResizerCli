@@ -1,0 +1,18 @@
+{
+  "name": "blogphoto",
+  "version": "1.0.0",
+  "description": "CLI tool to resize and crop images for blog posts",
+  "type": "module",
+  "main": "blogphoto.js",
+  "bin": {
+    "blogphoto": "./blogphoto.js"
+  },
+  "scripts": {
+    "start": "node blogphoto.js"
+  },
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "commander": "^9.4.1",
+    "sharp": "^0.32.1"
+  }
+}
