@@ -11,8 +11,6 @@ BlogPhoto is a powerful command-line tool designed to streamline image processin
 - Automatically generate unique filenames using timestamps
 - Copy the output file path to clipboard for easy use
 
-...
-
 ### Examples
 
 1. Process an image with default settings:
@@ -24,8 +22,6 @@ BlogPhoto is a powerful command-line tool designed to streamline image processin
    ```
    blogphoto -i ~/Downloads/my-image.png -o ~/Documents/blog-images
    ```
-
-...
 
 ## Use Cases
 
@@ -41,14 +37,12 @@ BlogPhoto is a powerful command-line tool designed to streamline image processin
 
 6. **Content Management System Integration**: Integrate this tool into your CMS workflow to automatically process and resize images upon upload.
 
-...
-
 ## Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/blogphoto.git
-   cd blogphoto
+   git clone https://github.com/SilasReinagel/BlogPhotoResizerCli.git
+   cd BlogPhotoResizerCli
    ```
 
 2. Install dependencies:
