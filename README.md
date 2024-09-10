@@ -1,9 +1,10 @@
 # BlogPhoto CLI Tool
 
-BlogPhoto is a powerful command-line tool designed to streamline image processing for blog posts and social media content. It takes a local image file, resizes it to fit within 1400px width, center crops it to 1400x700px, and saves it as a JPEG file with 80% quality and a timestamp filename.
+BlogPhoto is a powerful command-line tool designed to streamline image processing for blog posts and social media content. It takes a local image file or a web URL, resizes it to fit within 1400px width, center crops it to 1400x700px, and saves it as a JPEG file with 80% quality and a timestamp filename.
 
 ## Features
 
+- Process local image files or images from web URLs
 - Resize images to fit within 1400px width
 - Center crop images to 1400x700px aspect ratio
 - Convert images to JPEG format with 80% quality
