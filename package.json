@@ -1,0 +1,16 @@
+{
+  "name": "blogphoto",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "blogphoto": "./blogphoto.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1",
+    "commander": "^10.0.1",
+    "clipboardy": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node blogphoto.js"
+  }
+}

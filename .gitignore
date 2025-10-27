@@ -135,6 +135,7 @@
 
 # Node.js dependencies
 node_modules/
+output.jpg
 
 _outputs/
 _testImages/
